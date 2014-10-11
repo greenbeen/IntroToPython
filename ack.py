@@ -12,3 +12,5 @@ def ackermann(m, n):
 
 x = ackermann(1,2)
 print x 
+
+if __mame__ == "__main__"
